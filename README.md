@@ -1,3 +1,4 @@
+![logo](https://github.com/mohan1233/MohanReddy-Mekala/blob/main/Banner.jpg)
 ### 💻 **MohanReddy Mekala** | Full-stack Developer
 
 #### 🌟 **A passionate Computer Science student and aspiring developer.**
